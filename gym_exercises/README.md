@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# GYM_EXERCISES
+
+## Live Site URL: [Visit Here](https://exerciseinfo.netlify.app/) :rocket:
+
+## screenshot
+![image](https://github.com/GauravPatil301/JS-Mini-Project/assets/102862547/e3016ee4-8e06-457b-842f-0e906da2a9a9)
+![image](https://github.com/GauravPatil301/JS-Mini-Project/assets/102862547/50cad958-0328-4e18-8f27-90fd59a4ace6)
+![image](https://github.com/GauravPatil301/JS-Mini-Project/assets/102862547/0a695e6d-de3b-402f-9eb1-3805858307c9)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
